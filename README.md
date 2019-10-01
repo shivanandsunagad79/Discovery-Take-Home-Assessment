@@ -11,6 +11,7 @@ Java, cucumber, selenium and junit dependencies are used in this project.
 A very beautiful cucumber report get generated once the runner class run in cmd using maven commond (mvn test) in the target folder.
 
 This project uses maven project structure.
+
     Main/Java : It has application web page classes.
     Main/Resources: Log resource added.
     Test/Java: It has a runner class and stepdefenation classes.
